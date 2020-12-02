@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "761479679791",
+    "firebase_url": "https://kang-sayur-c92b8.firebaseio.com",
+    "project_id": "kang-sayur-c92b8",
+    "storage_bucket": "kang-sayur-c92b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761479679791:android:909df6da43e40c15c7dbda",
+        "android_client_info": {
+          "package_name": "id.kuduiso.kangsayur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761479679791-m2rschcigegcg0hqivku10a3qs0fon6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4i8SbKAb3aFn2WztKvCCNXGttKty2unw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761479679791-m2rschcigegcg0hqivku10a3qs0fon6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

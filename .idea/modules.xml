@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kang_Sayur.iml" filepath="$PROJECT_DIR$/.idea/modules/Kang_Sayur.iml" group="Kang_Sayur" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Kang Sayur/app" />
+    </modules>
+  </component>
+</project>

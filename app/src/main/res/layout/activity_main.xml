@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp"
+    android:background="@color/lightGreen"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="316dp"
+        android:layout_height="175dp"
+        android:layout_marginTop="112dp"
+        android:layout_gravity="center"
+        android:src="@drawable/logo_kang_sayur"
+        android:contentDescription="@string/logo_kang_sayur"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dp"
+        android:layout_marginBottom="28dp"
+        android:fontFamily="@font/redressed"
+        android:text="Kang Sayur"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="48sp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnMasuk"
+        android:layout_height="wrap_content"
+        android:layout_width="250dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="8dp"
+        android:padding="18dp"
+        android:text="@string/head_masuk"
+        android:textSize="16sp"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnDaftar"
+        android:layout_height="wrap_content"
+        android:layout_width="250dp"
+        android:layout_gravity="center_horizontal"
+        android:padding="18dp"
+        android:backgroundTint="@color/darkGreen"
+        android:text="@string/head_daftar"
+        android:textSize="16sp" />
+
+</LinearLayout>

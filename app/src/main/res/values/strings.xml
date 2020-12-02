@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Kang Sayur</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_password">Password</string>
+    <string name="head_daftar_akun">Daftar Akun Baru</string>
+    <string name="logo_kang_sayur">Logo Kang Sayur</string>
+    <string name="hint_nama">Nama</string>
+    <string name="hint_konfpasswd">Konfirmasi</string>
+    <string name="hint_nohp">Nomor HP</string>
+    <string name="hint_pembeli">Pembeli</string>
+    <string name="hint_penjual">Penjual</string>
+    <string name="daftar_sebagai">Daftar Sebagai:</string>
+    <string name="daftar">Daftar</string>
+    <string name="show">show</string>
+    <string name="head_masuk">MASUK</string>
+    <string name="head_daftar">DAFTAR</string>
+    <string name="head_masuk_akun">Masuk Akun</string>
+    <string name="kirim_ulang_kode">Kirim Ulang Kode</string>
+    <string name="verifikasi">Verifikasi</string>
+    <string name="waktu_tunggu_resend_kode">Waktu tunggu resend kode:</string>
+    <string name="hint_timer">00:00</string>
+    <string name="hint_peran">Peran</string>
+    <string name="hint_status_toko">Status Toko</string>
+    <string name="hint_alamat">Alamat</string>
+    <string name="verifikasi_email">Verifikasi Email</string>
+    <string name="tutup_toko">Tutup Toko</string>
+    <string name="btn_ubah">Ubah</string>
+    <string name="btn_simpan">Simpan</string>
+    <string name="btn_keluar">Keluar</string>
+    <string name="pin_lokasi">Pin Lokasi</string>
+    <string name="profil_anda">Profil Anda</string>
+    <string name="hint_foto_profil">Foto Profil</string>
+    <string name="pilih_gambar">Pilih Gambar</string>
+    <string name="belum_verifikasi_e_mail">Belum verifikasi e-mail?</string>
+    <string name="klik_disini">Klik disini</string>
+</resources>
